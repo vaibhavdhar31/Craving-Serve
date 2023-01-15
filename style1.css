@@ -72,7 +72,7 @@
  #home::before{
     content: "";
     position: absolute;
-    background: url('../images/ryan-concepcion-50KffXbjIOg-unsplash.jpg');
+    background: url('ryan-concepcion-50KffXbjIOg-unsplash.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -161,7 +161,7 @@
  #client-section::before{
    content: "";
    position: absolute;
-   background: url('../images/Screenshot_20230109_171636.png');
+   background: url('Screenshot_20230109_171636.png');
    height: 344px;
    width: 100%;
    z-index: -1;
@@ -200,7 +200,7 @@
    position: absolute;
    z-index: -1;
    opacity: 0.4;
-   background: url('../images/telephone.avif');
+   background: url('telephone.avif');
    width: 100%;
    height: 100%;
    background-repeat: no-repeat;
