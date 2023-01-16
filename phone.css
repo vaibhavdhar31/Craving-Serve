@@ -48,6 +48,7 @@
   } */
 /* CLIENTS */
 #clients{
+    flex-direction: row;
     flex-wrap: wrap;
 }
 #clients img{
